@@ -5,6 +5,7 @@ import 'package:intl/intl.dart';
 
 class Chart extends StatelessWidget {
   final List<Transaction> recentTransaction;
+
   Chart(this.recentTransaction);
 
   List<Map<String, Object>> get recentTransactionList {
