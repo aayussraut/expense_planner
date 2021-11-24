@@ -1,11 +1,11 @@
 import 'package:expense_planner/models/transaction.dart';
 import 'package:expense_planner/widgets/chart.dart';
-import 'package:expense_planner/widgets/newTransaction.dart';
+import 'package:expense_planner/widgets/new_transaction.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 // import '../models/transaction.dart';
-import '../widgets/userTransaction.dart';
+import 'widgets/user_transaction.dart';
 import '../widgets/chart.dart';
 
 void main() => runApp(MyApp());
