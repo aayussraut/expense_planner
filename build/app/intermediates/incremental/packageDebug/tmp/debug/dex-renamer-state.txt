@@ -1,4 +1,0 @@
-#Wed Nov 24 13:20:26 NPT 2021
-base.0=/home/iush/Practice/Flutter/expense_planner/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
